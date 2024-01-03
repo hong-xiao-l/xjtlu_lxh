@@ -3,7 +3,7 @@ Code of the  XJTLU student(Xiaohong Lin)
 
 How to run this project.
 
-1.Download the project files. Two ways to download:open the github to download the zip files or use the git command(git pull url). 
+1.Download the project files. Two ways to download:open the github to download the zip files or use the git command(git pull git@github.com:hong-xiao-l/xjtlu_lxh.git). 
 The former approach is demonstrated in the video.
 
 2. Using anaconda to create a virtual environment
